@@ -29,6 +29,8 @@
 <h2>🚀 Projects</h2>
 
 <ul>
+  <li><a href="https://lnkd.in/gFrtWikF">Metro Interstate Traffic Volume Prediction 🚗</a></li>
+  <li><a href="https://github.com/FazalRehman26/DiamondPricePrediction3">Diamond Price Prediction 💎</a></li>
   <li><a href="https://github.com/FazalRehman26/California-Housing-Price-Prediction">California Housing Price Prediction 🏡</a></li>
   <li><a href="https://github.com/FazalRehman26/EDA-Tesla-stock-price">Tesla Stock Price EDA 🚗📈</a></li>
   <li><a href="https://github.com/FazalRehman26/EDA-Redwine-Quality">Red Wine Quality Analysis 🍷</a></li>
