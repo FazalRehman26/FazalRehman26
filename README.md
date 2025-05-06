@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Fazal Rehman
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Internship and Projects
+# 👋 Hi, I'm Fazal Rehman
+### 🚀 Aspiring Data Scientist | Python Enthusiast | Lifelong Learner
+
+- 💻 I'm interested in **Programming**, especially Python and Machine Learning
+- 📊 Currently learning **Data Science**
+- 🤝 Looking to **collaborate** on open-source projects and internships
+- 🌱 Always eager to learn and grow
+
 
 <!---
 FazalRehman26/FazalRehman26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
