@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fazal Rehman</h1>
 <h3 align="center">Aspiring Data Scientist | Python Enthusiast | Open to Internships</h3>
 
-<!-- Dancing Iron Man GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="300"/>
-</p>
+
 
 <!-- Tech badges -->
 <p align="center">
