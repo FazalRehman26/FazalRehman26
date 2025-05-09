@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fazal Rehman</h1>
 <h3 align="center">Aspiring Data Scientist | Python Enthusiast | Open to Internships</h3>
 
+<!-- Dancing Iron Man GIF -->
 <p align="center">
-  <img src="<p align="center">
   <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="300"/>
-
 </p>
 
-
+<!-- Tech badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -23,6 +22,7 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/fazal-rehman-83a294263/)  
 
 ---
+
 
 <h2>📊 GitHub Stats</h2>
 
